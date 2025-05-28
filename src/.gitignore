@@ -1,0 +1,34 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled Java class files
+*.class
+
+# Build output directories
+/out/
+/build/
+/target/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Gradle/Maven (if applicable)
+.gradle/
+/*.jar
+*.war
+
+# Temporary files
+*.tmp
+*.swp
+
+# Database connection configs (optional - if you store passwords in config files)
+db.config
+*.env
+
+# VS Code workspace files (if used)
+.vscode/
